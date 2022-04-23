@@ -1,8 +1,4 @@
-# TP1 - Calculadora de cotización de criptomonedas
-### Sistemas de computación - 2022 - FCEFyN - UNC
-## Integrantes
-- Luna, Lihué Leandro (39129465)
-- Bonino, Francisco Ignacio (41279796)
+# Calculadora de cotización de criptomonedas
 
 ## Brief
 El siguiente es un trabajo práctico que consta de una calculadora de cotización de criptomonedas. Se provee al usuario un menú simple donde podrá elegir la criptomoneda en cuestión y la moneda a la cual su valor se convertirá.
